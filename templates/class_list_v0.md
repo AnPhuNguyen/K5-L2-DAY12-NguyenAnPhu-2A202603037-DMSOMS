@@ -7,7 +7,6 @@ Xóa 2 dòng ví dụ trước khi nộp.
 
 | # | Lớp / thuộc tính | Giá trị | Để làm gì (chức năng DMS) | Nhìn thấy được trên IR? |
 |---|---|---|---|---|
-| ví dụ | eye_state | open / closed / unknown | Phát hiện buồn ngủ (mắt nhắm lâu) | Có, trừ khi kính phản xạ |
 | 1 | | | | |
 | 2 | | | | |
 | 3 | | | | |
@@ -19,7 +18,6 @@ Xóa 2 dòng ví dụ trước khi nộp.
 
 | # | Lớp / thuộc tính | Giá trị | Để làm gì (chức năng OMS) | Nhìn thấy được trên IR? |
 |---|---|---|---|---|
-| ví dụ | infant_seat | có / không, theo ghế | Nhắc quên trẻ trong xe; tắt túi khí ghế trước | Có (hình dạng) |
 | 1 | | | | |
 | 2 | | | | |
 | 3 | | | | |
